@@ -13,4 +13,3 @@ function hasTwoCubeSums(n) {
     return false
 }
 let n=1729
-console.log(hasTwoCubeSums(n))
