@@ -12,4 +12,3 @@ function hasTwoCubeSums(n) {
     }
     return false
 }
-let n=1729
